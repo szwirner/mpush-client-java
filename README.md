@@ -6,6 +6,8 @@
 
 ## 当前版本
 
+:balloon:
+
 ```groovy
 compile 'com.github.mpusher:mpush-client-java:0.0.2'
 ```
